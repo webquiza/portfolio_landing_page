@@ -19,3 +19,15 @@
 .span {
   color: red;
 }
+
+.hobby {
+  width: 45%;
+  float: left;
+  background-color: grey;
+}
+
+.interests {
+  width: 45%;
+  float: right;
+  background-color: grey;
+}

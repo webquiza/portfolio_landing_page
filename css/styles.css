@@ -3,7 +3,7 @@
   font-style: italic;
 }
 
-.about {
+.about, .background {
   text-align: left;
   font-size: 20px;
   line-height: 20px;

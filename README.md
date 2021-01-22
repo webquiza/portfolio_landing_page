@@ -1,6 +1,6 @@
 # _Portfolio Landing Page_
 
-#### _Webpage dedicated to showcase my portfolio of programming work complete at Epicodus._
+#### _Webpage dedicated to showcase my portfolio of programming work completed at Epicodus._
 
 #### By _**Carlos Urquiza**_
 
